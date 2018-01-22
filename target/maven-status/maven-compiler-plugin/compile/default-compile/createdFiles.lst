@@ -1,0 +1,12 @@
+com/demo/skeleton_rest/controller/skeletonController.class
+com/demo/skeleton_rest/persistance/repository/ProductRepository.class
+com/demo/skeleton_rest/persistance/repository/UserRepository.class
+com/demo/skeleton_rest/App.class
+com/demo/skeleton_rest/service/ProductServiceImpl.class
+com/demo/skeleton_rest/service/ProductService.class
+com/demo/skeleton_rest/persistance/model/User.class
+com/demo/skeleton_rest/config/SwaggerConfig.class
+com/demo/skeleton_rest/persistance/model/Product.class
+com/demo/skeleton_rest/service/UserService.class
+com/demo/skeleton_rest/service/UserServiceImpl.class
+com/demo/skeleton_rest/service/MockProductServiceImpl.class

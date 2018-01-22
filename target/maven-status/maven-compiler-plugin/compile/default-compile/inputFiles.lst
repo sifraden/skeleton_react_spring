@@ -1,0 +1,12 @@
+/Users/soufianeifraden/Desktop/Projets/workspace_eclipse/skeleton_rest/src/main/java/com/demo/skeleton_rest/persistance/repository/ProductRepository.java
+/Users/soufianeifraden/Desktop/Projets/workspace_eclipse/skeleton_rest/src/main/java/com/demo/skeleton_rest/persistance/model/Product.java
+/Users/soufianeifraden/Desktop/Projets/workspace_eclipse/skeleton_rest/src/main/java/com/demo/skeleton_rest/service/ProductServiceImpl.java
+/Users/soufianeifraden/Desktop/Projets/workspace_eclipse/skeleton_rest/src/main/java/com/demo/skeleton_rest/service/UserService.java
+/Users/soufianeifraden/Desktop/Projets/workspace_eclipse/skeleton_rest/src/main/java/com/demo/skeleton_rest/controller/skeletonController.java
+/Users/soufianeifraden/Desktop/Projets/workspace_eclipse/skeleton_rest/src/main/java/com/demo/skeleton_rest/config/SwaggerConfig.java
+/Users/soufianeifraden/Desktop/Projets/workspace_eclipse/skeleton_rest/src/main/java/com/demo/skeleton_rest/persistance/repository/UserRepository.java
+/Users/soufianeifraden/Desktop/Projets/workspace_eclipse/skeleton_rest/src/main/java/com/demo/skeleton_rest/service/UserServiceImpl.java
+/Users/soufianeifraden/Desktop/Projets/workspace_eclipse/skeleton_rest/src/main/java/com/demo/skeleton_rest/App.java
+/Users/soufianeifraden/Desktop/Projets/workspace_eclipse/skeleton_rest/src/main/java/com/demo/skeleton_rest/service/ProductService.java
+/Users/soufianeifraden/Desktop/Projets/workspace_eclipse/skeleton_rest/src/main/java/com/demo/skeleton_rest/persistance/model/User.java
+/Users/soufianeifraden/Desktop/Projets/workspace_eclipse/skeleton_rest/src/main/java/com/demo/skeleton_rest/service/MockProductServiceImpl.java
