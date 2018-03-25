@@ -36,6 +36,7 @@ public class UserServiceImpl implements UserService{
 		userHashed.setEmail(user.getEmail());
 		userHashed.setLogin(user.getLogin());
 		userHashed.setPassword(hashPassword(user.getPassword()));
+		userHashed.setAuthority(user.getAuthority());
 		return userRepository.save(userHashed);
 	}
 
